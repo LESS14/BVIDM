@@ -1,0 +1,20 @@
+{
+	"user": "LESS14",
+	"repo": "BVIDM",
+	"tag": "0.0.1",
+	"entry": "gamemodes\\index.pwn",
+	"output": "gamemodes/gamemodes\\index.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib",
+		"Y_LESS/sscanf2",
+		"oscar-broman/md-sort",
+		"sampctl/samp-stdlib",
+		"Y-Less/code-parse.inc",
+		"Y-Less/indirection",
+		"Zeex/amx_assembly"
+	],
+	"local": true,
+	"runtime": {
+		"mode": "y_testing"
+	}
+}
